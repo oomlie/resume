@@ -74,12 +74,13 @@ cv:
         highlights:
           - Developed the technical action plan for CGCU's annual Freshman event.
           - Managed web development, stream production and supervision, Linux server administration, and game server administration and development.
-      - company: Friend Club (VRChat)
-        position: Community Administrator
+      - company: Friend Club
+        position: Community Administrator & Live Event Producer
         start_date: 2023
         end_date: present
         highlights:
-          - Organized community events for an online social club; managed and deployed livestream infrastructure and provided live audiovisual technical support during events.
+          - Organized online community gatherings and ran IRL live events in Washington, D.C., managing live sound, audiovisual setup, and event operations.
+          - Managed livestreaming infrastructure and provided real-time technical support for virtual and hybrid events.
           - Designed and maintained the community website (friendclub.lol) and produced graphic assets for events and branding.
       - company: Entech
         position: Technical Intern

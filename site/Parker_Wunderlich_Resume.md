@@ -104,13 +104,15 @@ Oct 2020
 
 
 
-## **Friend Club (VRChat)**
+## **Friend Club**
 
 2023 – present
 
-*Community Administrator*
+*Community Administrator & Live Event Producer*
 
-- Organized community events for an online social club; managed and deployed livestream infrastructure and provided live audiovisual technical support during events.
+- Organized online community gatherings and ran IRL live events in Washington, D.C., managing live sound, audiovisual setup, and event operations.
+
+- Managed livestreaming infrastructure and provided real-time technical support for virtual and hybrid events.
 
 - Designed and maintained the community website (friendclub.lol) and produced graphic assets for events and branding.
 
