@@ -5,7 +5,7 @@ cv:
   location: Washington, D.C.
   email: ptwund@gmail.com
   phone: "+1 239-849-5575"
-  website: https://resume.daze.lol
+  website: https://daze.lol
   social_networks:
     - network: LinkedIn
       username: parkerwunderlich
@@ -68,6 +68,13 @@ cv:
     Certifications:
       - bullet: CompTIA Security+ — Earned July 2023
     Technical Experience:
+      - company: daze.lol Infrastructure
+        position: Systems & Self-Hosted Infrastructure Administrator
+        start_date: 2023
+        end_date: present
+        highlights:
+          - Designed and architected a personal cloud environment on a NixOS host (halo) using rootless Podman microservices, Cloudflare Tunnels, and Cloudflare Access SSO policies.
+          - Administrated self-hosted services including multi-account AI model proxy routing (route.daze.lol), web scraping APIs (crawl.daze.lol), private search (search.daze.lol), ATProtocol PDS (pds.daze.lol), and Git CI/CD.
       - company: CGCU
         position: Technical Intern
         date: 2020-10
@@ -104,10 +111,10 @@ design:
   theme: ink
   page:
     size: us-letter
-    top_margin: 0.35in
-    bottom_margin: 0.35in
-    left_margin: 0.5in
-    right_margin: 0.5in
+    top_margin: 0.3in
+    bottom_margin: 0.3in
+    left_margin: 0.45in
+    right_margin: 0.45in
     show_footer: false
     show_top_note: false
   colors:
@@ -120,9 +127,9 @@ design:
   typography:
     line_spacing: 0.5em
     font_size:
-      body: 9.4pt
-      name: 24pt
-      headline: 10pt
+      body: 9.0pt
+      name: 22pt
+      headline: 9.5pt
       connections: 9pt
       section_titles: 1.15em
   header:
@@ -134,11 +141,11 @@ design:
       space_between_connections: 0.35cm
   section_titles:
     type: without_line
-    space_above: 0.24cm
-    space_below: 0.12cm
+    space_above: 0.18cm
+    space_below: 0.08cm
   sections:
-    space_between_regular_entries: 0.22em
-    space_between_text_based_entries: 0.08em
+    space_between_regular_entries: 0.16em
+    space_between_text_based_entries: 0.06em
   entries:
     date_and_location_width: 1.6in
     highlights:

@@ -3,7 +3,7 @@
 - Phone: +1 239 849 5575
 - Email: [ptwund@gmail.com](mailto:ptwund@gmail.com)
 - Location: Washington, D.C.
-- Website: [resume.daze.lol](https://resume.daze.lol/)
+- Website: [daze.lol](https://daze.lol/)
 - LinkedIn: [parkerwunderlich](https://linkedin.com/in/parkerwunderlich)
 - GitHub: [oomlie](https://github.com/oomlie)
 
@@ -92,6 +92,18 @@ May 2020
 - CompTIA Security+ — Earned July 2023
 
 # Technical Experience
+## **daze.lol Infrastructure**
+
+2023 – present
+
+*Systems & Self-Hosted Infrastructure Administrator*
+
+- Designed and architected a personal cloud environment on a NixOS host (halo) using rootless Podman microservices, Cloudflare Tunnels, and Cloudflare Access SSO policies.
+
+- Administrated self-hosted services including multi-account AI model proxy routing (route.daze.lol), web scraping APIs (crawl.daze.lol), private search (search.daze.lol), ATProtocol PDS (pds.daze.lol), and Git CI/CD.
+
+
+
 ## **CGCU**
 
 Oct 2020

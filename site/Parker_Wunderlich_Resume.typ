@@ -10,10 +10,10 @@
   locale-catalog-language: "en",
   text-direction: ltr,
   page-size: "us-letter",
-  page-top-margin: 0.35in,
-  page-bottom-margin: 0.35in,
-  page-left-margin: 0.5in,
-  page-right-margin: 0.5in,
+  page-top-margin: 0.3in,
+  page-bottom-margin: 0.3in,
+  page-left-margin: 0.45in,
+  page-right-margin: 0.45in,
   page-show-footer: false,
   page-show-top-note: false,
   colors-body: rgb(20, 24, 30),
@@ -32,9 +32,9 @@
   typography-font-family-headline: "EB Garamond",
   typography-font-family-connections: "EB Garamond",
   typography-font-family-section-titles: "EB Garamond",
-  typography-font-size-body: 9.4pt,
-  typography-font-size-name: 24pt,
-  typography-font-size-headline: 10pt,
+  typography-font-size-body: 9.0pt,
+  typography-font-size-name: 22pt,
+  typography-font-size-headline: 9.5pt,
   typography-font-size-connections: 9pt,
   typography-font-size-section-titles: 1.15em,
   typography-small-caps-name: false,
@@ -59,11 +59,11 @@
   header-connections-space-between-connections: 0.35cm,
   section-titles-type: "without_line",
   section-titles-line-thickness: 0.5pt,
-  section-titles-space-above: 0.24cm,
-  section-titles-space-below: 0.12cm,
+  section-titles-space-above: 0.18cm,
+  section-titles-space-below: 0.08cm,
   sections-allow-page-break: true,
-  sections-space-between-text-based-entries: 0.08em,
-  sections-space-between-regular-entries: 0.22em,
+  sections-space-between-text-based-entries: 0.06em,
+  sections-space-between-regular-entries: 0.16em,
   entries-date-and-location-width: 1.6in,
   entries-side-space: 0cm,
   entries-space-between-columns: 0.2cm,
@@ -94,7 +94,7 @@
   [Washington, D.C.],
   [#link("mailto:ptwund@gmail.com", icon: false, if-underline: false, if-color: false)[ptwund\@gmail.com]],
   [#link("tel:+1-239-849-5575", icon: false, if-underline: false, if-color: false)[(239) 849-5575]],
-  [#link("https://resume.daze.lol/", icon: false, if-underline: false, if-color: false)[resume.daze.lol]],
+  [#link("https://daze.lol/", icon: false, if-underline: false, if-color: false)[daze.lol]],
   [#link("https://linkedin.com/in/parkerwunderlich", icon: false, if-underline: false, if-color: false)[linkedin.com\/in\/parkerwunderlich]],
   [#link("https://github.com/oomlie", icon: false, if-underline: false, if-color: false)[github.com\/oomlie]],
 )
@@ -231,6 +231,25 @@ IT support and systems administration professional with 5+ years of experience s
 - CompTIA Security+ — Earned July 2023
 
 == Technical Experience
+
+#regular-entry(
+  [
+    #strong[daze.lol Infrastructure]
+
+  ],
+  [
+    2023 – present
+
+  ],
+  main-column-second-row: [
+    #emph[Systems & Self-Hosted Infrastructure Administrator]
+
+    - Designed and architected a personal cloud environment on a NixOS host (halo) using rootless Podman microservices, Cloudflare Tunnels, and Cloudflare Access SSO policies.
+
+    - Administrated self-hosted services including multi-account AI model proxy routing (route.daze.lol), web scraping APIs (crawl.daze.lol), private search (search.daze.lol), ATProtocol PDS (pds.daze.lol), and Git CI\/CD.
+
+  ],
+)
 
 #regular-entry(
   [
