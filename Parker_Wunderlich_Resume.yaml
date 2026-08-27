@@ -1,0 +1,164 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Parker Thomas Wunderlich
+  headline: IT Support & Systems Administration
+  location: Washington, D.C.
+  email: ptwund@gmail.com
+  phone: "+1 239-849-5575"
+  website: https://resume.daze.lol
+  social_networks:
+    - network: LinkedIn
+      username: parkerwunderlich
+    - network: GitHub
+      username: oomlie
+  sections:
+    Professional Summary:
+      - IT support and systems administration professional with 5+ years of experience supporting regulated, government, and hosting environments. Skilled in identity administration, endpoint deployment, Microsoft 365, Active Directory, Okta, and live audiovisual production.
+    Work Experience:
+      - company: Forbright Bank
+        position: IT Helpdesk Technician
+        start_date: 2023-07
+        end_date: 2026-07
+        location: Chevy Chase, MD
+        highlights:
+          - Delivered Tier 1 and Tier 2 support for 600+ employees across headquarters, branches, and remote users, resolving approximately 200 incidents per month within SLA targets.
+          - Administered identity and access across Okta, Microsoft 365, and Active Directory, resolving account, application-access, SSO, and MFA issues.
+          - Managed and supported Windows endpoints with Intune; deployed workstations and peripherals and resolved network and VPN issues.
+          - Managed incidents and documented technical work in Jira while coordinating changes and support activities through Microsoft Teams.
+          - Created documentation, patches, and support workflows for recurring technical needs in a fast-paced banking environment.
+          - Produced recurring weekly and monthly hybrid meetings using Logitech AV systems, Microsoft Teams, and Zoom; configured livestreams, cameras, microphones, and speakers, directed guest speakers, and troubleshot live audio and video issues.
+      - company: CAI
+        position: Desktop Support Specialist
+        start_date: 2023-04
+        end_date: 2023-07
+        location: Fort Myers, FL
+        highlights:
+          - Provided comprehensive desktop support for county government offices, including deployment, maintenance, and troubleshooting.
+          - Tracked and maintained computer assets across a large network, optimizing resource allocation.
+          - Collaborated with other county departments through ticketing and email.
+      - company: Dedipath
+        position: IT Administration
+        start_date: 2022-07
+        end_date: 2023-04
+        location: Fort Myers, FL
+        highlights:
+          - Administered, deployed, and managed Linux and Windows dedicated and virtual servers for an international client base in a high-volume hosting environment.
+          - Assisted with network administration and infrastructure deployment while resolving customer server and connectivity issues.
+      - company: Francis L. Dean & Associates
+        position: IT Administration & Web Development
+        start_date: 2021-02
+        end_date: 2022-05
+        location: Fort Myers, FL
+        highlights:
+          - Administered Linux and Windows servers, Microsoft Azure, and Windows workstations.
+          - Designed and maintained websites and SEO content, produced digital and print graphics, and built software to automate email and form-submission workflows.
+      - company: Publix Supermarkets
+        position: Customer Service
+        start_date: 2017-10
+        end_date: 2021-02
+        location: Fort Myers, FL
+        highlights:
+          - Managed front-desk customer support in a high-volume environment, handling funds and operating point-of-sale systems.
+    Education:
+      - institution: Florida Southwestern State College
+        area: Associate in Arts
+        degree:
+        end_date: 2020-05
+        location: Fort Myers, FL
+    Certifications:
+      - bullet: CompTIA Security+ — Earned July 2023
+    Technical Experience:
+      - company: CGCU
+        position: Technical Intern
+        date: 2020-10
+        highlights:
+          - Developed the technical action plan for CGCU's annual Freshman event.
+          - Managed web development, stream production and supervision, Linux server administration, and game server administration and development.
+      - company: Friend Club (VRChat)
+        position: Community Administrator
+        start_date: 2023
+        end_date: present
+        highlights:
+          - Organized community events for an online social club; managed and deployed livestream infrastructure and provided live audiovisual technical support during events.
+          - Designed and maintained the community website (friendclub.lol) and produced graphic assets for events and branding.
+      - company: Entech
+        position: Technical Intern
+        date: 2018-10
+        highlights:
+          - Assembled, imaged, and deployed secured workstations for small businesses and schools.
+          - Assisted with hardware setup and network deployments for small-business environments.
+    Skills:
+      - label: Systems & Cloud
+        details: Microsoft 365, Active Directory, Microsoft Azure, Intune, Okta, Linux, Windows Server
+      - label: Support & Collaboration
+        details: Tier 1/2 help desk, Jira, Microsoft Teams, ticketing, SLA management, VPN and MFA troubleshooting, end-user support, technical documentation
+      - label: Audiovisual
+        details: Logitech AV systems, Microsoft Teams and Zoom meetings, hybrid livestreams, cameras, microphones, speakers, guest-speaker direction
+      - label: Networking & Hardware
+        details: Computer networking, workstation imaging and deployment, peripherals, asset tracking, hardware builds
+      - label: Development
+        details: SQL, Python, Bash, PowerShell, Node.js, HTML, CSS, JavaScript
+
+design:
+  theme: ink
+  page:
+    size: us-letter
+    top_margin: 0.35in
+    bottom_margin: 0.35in
+    left_margin: 0.5in
+    right_margin: 0.5in
+    show_footer: false
+    show_top_note: false
+  colors:
+    body: rgb(20, 24, 30)
+    name: rgb(35, 52, 74)
+    headline: rgb(35, 52, 74)
+    connections: rgb(55, 70, 90)
+    section_titles: rgb(35, 52, 74)
+    links: rgb(35, 52, 74)
+  typography:
+    line_spacing: 0.5em
+    font_size:
+      body: 9.4pt
+      name: 24pt
+      headline: 10pt
+      connections: 9pt
+      section_titles: 1.15em
+  header:
+    alignment: left
+    space_below_name: 0.35cm
+    space_below_headline: 0.28cm
+    space_below_connections: 0.35cm
+    connections:
+      space_between_connections: 0.35cm
+  section_titles:
+    type: without_line
+    space_above: 0.24cm
+    space_below: 0.12cm
+  sections:
+    space_between_regular_entries: 0.22em
+    space_between_text_based_entries: 0.08em
+  entries:
+    date_and_location_width: 1.6in
+    highlights:
+      space_above: 0.05cm
+      space_between_items: 0.04cm
+
+locale:
+  language: english
+
+settings:
+  current_date: today
+  render_command:
+    output_folder: site
+    typst_path: OUTPUT_FOLDER/Parker_Wunderlich_Resume.typ
+    pdf_path: OUTPUT_FOLDER/Parker_Wunderlich_Resume.pdf
+    markdown_path: OUTPUT_FOLDER/Parker_Wunderlich_Resume.md
+    html_path: OUTPUT_FOLDER/index.html
+    png_path: OUTPUT_FOLDER/Parker_Wunderlich_Resume.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  pdf_title: Parker Thomas Wunderlich - Resume
