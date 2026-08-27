@@ -9,7 +9,7 @@
 
 
 # Professional Summary
-IT support and systems administration professional with 5+ years of experience supporting regulated, government, and hosting environments. Skilled in identity administration, endpoint deployment, Microsoft 365, Active Directory, Okta, and live audiovisual production.
+IT support and systems administration professional with 5+ years of experience supporting regulated, government, and hosting environments. Skilled in identity administration, endpoint deployment, Microsoft 365, Active Directory, Okta, AI model infrastructure, and live audiovisual production.
 
 # Work Experience
 ## **Forbright Bank** -- Chevy Chase, MD
@@ -143,12 +143,12 @@ Oct 2018
 
 
 # Skills
-**Systems & Cloud:** Microsoft 365, Active Directory, Microsoft Azure, Intune, Okta, Linux, Windows Server
+**Systems & Cloud:** Microsoft 365, Active Directory, Microsoft Azure, Intune, Okta, Linux, Windows Server, AI model gateways
 
-**Support & Collaboration:** Tier 1/2 help desk, Jira, Microsoft Teams, ticketing, SLA management, VPN and MFA troubleshooting, end-user support, technical documentation
+**AI & Automation:** AI model proxy routing (CLI Proxy API), Firecrawl scraping & extraction APIs, local LLM inference gateways, AI agent workflows
+
+**Support & Collaboration:** Tier 1/2 help desk, Jira, Microsoft Teams, ticketing, SLA management, VPN and MFA troubleshooting, technical documentation
 
 **Audiovisual:** Logitech AV systems, Microsoft Teams and Zoom meetings, hybrid livestreams, cameras, microphones, speakers, guest-speaker direction
 
-**Networking & Hardware:** Computer networking, workstation imaging and deployment, peripherals, asset tracking, hardware builds
-
-**Development:** SQL, Python, Bash, PowerShell, Node.js, HTML, CSS, JavaScript
+**Development & Scripting:** PowerShell, Bash, Python, SQL, Node.js, HTML, CSS, JavaScript

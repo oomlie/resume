@@ -102,7 +102,7 @@
 
 == Professional Summary
 
-IT support and systems administration professional with 5+ years of experience supporting regulated, government, and hosting environments. Skilled in identity administration, endpoint deployment, Microsoft 365, Active Directory, Okta, and live audiovisual production.
+IT support and systems administration professional with 5+ years of experience supporting regulated, government, and hosting environments. Skilled in identity administration, endpoint deployment, Microsoft 365, Active Directory, Okta, AI model infrastructure, and live audiovisual production.
 
 == Work Experience
 
@@ -312,12 +312,12 @@ IT support and systems administration professional with 5+ years of experience s
 
 == Skills
 
-#strong[Systems & Cloud:] Microsoft 365, Active Directory, Microsoft Azure, Intune, Okta, Linux, Windows Server
+#strong[Systems & Cloud:] Microsoft 365, Active Directory, Microsoft Azure, Intune, Okta, Linux, Windows Server, AI model gateways
 
-#strong[Support & Collaboration:] Tier 1\/2 help desk, Jira, Microsoft Teams, ticketing, SLA management, VPN and MFA troubleshooting, end-user support, technical documentation
+#strong[AI & Automation:] AI model proxy routing (CLI Proxy API), Firecrawl scraping & extraction APIs, local LLM inference gateways, AI agent workflows
+
+#strong[Support & Collaboration:] Tier 1\/2 help desk, Jira, Microsoft Teams, ticketing, SLA management, VPN and MFA troubleshooting, technical documentation
 
 #strong[Audiovisual:] Logitech AV systems, Microsoft Teams and Zoom meetings, hybrid livestreams, cameras, microphones, speakers, guest-speaker direction
 
-#strong[Networking & Hardware:] Computer networking, workstation imaging and deployment, peripherals, asset tracking, hardware builds
-
-#strong[Development:] SQL, Python, Bash, PowerShell, Node.js, HTML, CSS, JavaScript
+#strong[Development & Scripting:] PowerShell, Bash, Python, SQL, Node.js, HTML, CSS, JavaScript

@@ -13,7 +13,7 @@ cv:
       username: oomlie
   sections:
     Professional Summary:
-      - IT support and systems administration professional with 5+ years of experience supporting regulated, government, and hosting environments. Skilled in identity administration, endpoint deployment, Microsoft 365, Active Directory, Okta, and live audiovisual production.
+      - IT support and systems administration professional with 5+ years of experience supporting regulated, government, and hosting environments. Skilled in identity administration, endpoint deployment, Microsoft 365, Active Directory, Okta, AI model infrastructure, and live audiovisual production.
     Work Experience:
       - company: Forbright Bank
         position: IT Helpdesk Technician
@@ -97,15 +97,15 @@ cv:
           - Assisted with hardware setup and network deployments for small-business environments.
     Skills:
       - label: Systems & Cloud
-        details: Microsoft 365, Active Directory, Microsoft Azure, Intune, Okta, Linux, Windows Server
+        details: Microsoft 365, Active Directory, Microsoft Azure, Intune, Okta, Linux, Windows Server, AI model gateways
+      - label: AI & Automation
+        details: AI model proxy routing (CLI Proxy API), Firecrawl scraping & extraction APIs, local LLM inference gateways, AI agent workflows
       - label: Support & Collaboration
-        details: Tier 1/2 help desk, Jira, Microsoft Teams, ticketing, SLA management, VPN and MFA troubleshooting, end-user support, technical documentation
+        details: Tier 1/2 help desk, Jira, Microsoft Teams, ticketing, SLA management, VPN and MFA troubleshooting, technical documentation
       - label: Audiovisual
         details: Logitech AV systems, Microsoft Teams and Zoom meetings, hybrid livestreams, cameras, microphones, speakers, guest-speaker direction
-      - label: Networking & Hardware
-        details: Computer networking, workstation imaging and deployment, peripherals, asset tracking, hardware builds
-      - label: Development
-        details: SQL, Python, Bash, PowerShell, Node.js, HTML, CSS, JavaScript
+      - label: Development & Scripting
+        details: PowerShell, Bash, Python, SQL, Node.js, HTML, CSS, JavaScript
 
 design:
   theme: ink
